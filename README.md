@@ -2,13 +2,11 @@
 Calculatrice Scientifique – React Native & Expo
 
 Une application mobile de calculatrice scientifique élégante et moderne construite avec React Native et Expo.
-Elle supporte les fonctions de base, les opérations scientifiques (sin, cos, tan, ln, log, etc.), ainsi que des fonctionnalités comme backspace, clear, puissance, racine carrée et plus encore.
+Elle supporte les fonctions de base, les opérations scientifiques ainsi que des fonctionnalités comme backspace, clear, puissance, racine carrée et plus encore.
 
 Fonctionnalités
 
 Opérations de base : +, -, *, /, =
-
-Opérations scientifiques : sin(), cos(), tan(), log(), ln(), exp(), π, √, ^
 
 Parenthèses pour la priorité des opérations
 
@@ -45,7 +43,7 @@ StyleSheet React Native
 
 Installation
 
-Prérequis
+Prérequis:
 
 Node.js installé
 
